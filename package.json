@@ -1,0 +1,29 @@
+{
+  "name": "project-z",
+  "version": "1.0",
+  "description": "A discord.js bot for PRO servers.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "discord.js": "^11.3.0",
+    "request": "^2.83.0",
+    "enmap": "^0.4.2",
+    "enmap-level": "^1.0.0",
+    "tabletojson": "^0.6.0"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/welcome-project"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
